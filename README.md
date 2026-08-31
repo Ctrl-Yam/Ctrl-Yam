@@ -57,6 +57,22 @@ Networking student and developer based in Johannesburg, South Africa. Building P
   </tr>
 </table>
 
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ctrl-Yam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ctrl-Yam&label=PROFILE+VIEWS&color=005073&style=for-the-badge" alt="Profile Views" />
+</p>
+
+### Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco-Networking_Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+</p>
+
 ### Contribution Snake
 
 <img src="https://raw.githubusercontent.com/Ctrl-Yam/Ctrl-Yam/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
