@@ -2,9 +2,12 @@
 
 Networking student and developer based in Johannesburg, South Africa. Building Python automation tools, enterprise network solutions, and custom system environments.
 
+<h3><a href="https://github.com/sara-czasak/py-simple-wrap"><code>Building py-simple-wrap</code></a></h3>
+
 <p>
   <a href="https://ctrl-yam.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://github.com/Ctrl-Yam"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yamkelo-vilakazi-31b930397"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ### Languages, Systems & Tools
