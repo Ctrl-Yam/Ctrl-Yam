@@ -36,26 +36,45 @@ Networking student and developer based in Johannesburg, South Africa. Building P
   <img src="https://img.shields.io/badge/Hyprland-552A80?style=for-the-badge&logo=hyprland&logoColor=white"/>
 </p>
 
-### Featured Projects
+### Projects
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center"><b>MSP Outreach Automator</b></h3>
-      <p align="center">Python desktop automation script engineered to streamline personalized outreach workflows.</p>
-      <p align="center">
-        <a href="https://github.com/Ctrl-Yam/msp-outreach-automator"><b>View Code »</b></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><b>Personal Portfolio</b></h3>
-      <p align="center">Interactive single-page application built around a custom network-gateway aesthetic.</p>
-      <p align="center">
-        <a href="https://ctrl-yam.github.io"><b>Visit Site »</b></a>
-      </p>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Personal Portfolio Page</b></td>
+      <td>Interactive single-page application built around a custom network-gateway aesthetic.</td>
+      <td><a href="https://ctrl-yam.github.io">Visit</a></td>
+    </tr>
+    <tr>
+      <td><b>MSP Outreach Automator</b></td>
+      <td>Python desktop automation script engineered to streamline personalized outreach workflows.</td>
+      <td><a href="https://github.com/Ctrl-Yam/msp-outreach-automator">Code</a></td>
+    </tr>
+  </tbody>
 </table>
+
+### Project Spotlight: MSP Outreach Automator
+
+<p><i>Mission: Streamlining personalized communication and outreach workflows.</i></p>
+
+<p>A Python desktop automation tool engineered to manage targeted email dispatch, batch processing, and personalized template rendering with minimal overhead.</p>
+
+<p>
+  <img src="https://img.shields.io/github/stars/Ctrl-Yam/msp-outreach-automator?style=for-the-badge&color=005073" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/Ctrl-Yam/msp-outreach-automator?style=for-the-badge&color=005073" alt="Forks"/>
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+<p>
+  <a href="https://github.com/Ctrl-Yam/msp-outreach-automator"><img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/></a>
+</p>
 
 ### GitHub Stats
 
