@@ -3,7 +3,7 @@
 Networking student and developer based in Johannesburg, South Africa. Building Python automation tools, enterprise network solutions, and custom system environments.
 
 <p>
-  <b>Creator of <a href="https://github.com/Ctrl-Yam/msp-outreach-automator"><code>msp-outreach-automator</code></a> (v1.0 out now!)</b>
+  <i>"I'd tell you a UDP joke, but you might not get it."</i>
 </p>
 
 <p>
