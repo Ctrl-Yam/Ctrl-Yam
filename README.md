@@ -3,7 +3,7 @@
 Networking student and developer based in Johannesburg, South Africa. Building Python automation tools, enterprise network solutions, and custom system environments.
 
 <p>
-  <b>Active contributor to <a href="https://github.com/sara-czasak/py-simple-wrap"><code>py-simple-wrap</code></a></b>
+  <b>Creator of <a href="https://github.com/Ctrl-Yam/msp-outreach-automator"><code>msp-outreach-automator</code></a> (v1.0 out now!)</b>
 </p>
 
 <p>
@@ -42,7 +42,7 @@ Networking student and developer based in Johannesburg, South Africa. Building P
   <tr>
     <td width="50%">
       <h3 align="center"><b>MSP Outreach Automator</b></h3>
-      <p align="center">Python automation script engineered to streamline personalized outreach workflows.</p>
+      <p align="center">Python desktop automation script engineered to streamline personalized outreach workflows.</p>
       <p align="center">
         <a href="https://github.com/Ctrl-Yam/msp-outreach-automator"><b>View Code »</b></a>
       </p>
