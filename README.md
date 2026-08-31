@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Hyprland-552A80?style=for-the-badge&logo=hyprland&logoColor=white"/>
 </p>
 
-### Project Spotlight: MSP Outreach Automator
+### Project MSP Outreach Automator
 
 <p><i>Mission: Streamlining personalized communication and outreach workflows.</i></p>
 
