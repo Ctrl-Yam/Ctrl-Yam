@@ -1,6 +1,8 @@
 <div align="center">
 
-Networking student and developer based in Johannesburg, South Africa. Building Python automation tools, enterprise network solutions, and custom system environments.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1BA0D7&center=true&vcenter=true&width=500&height=50&lines=Hi%2C+I'm+Yamkelo;Networking+Student+%26+Developer;Python+%C2%B7+Bash+%C2%B7+Linux+%C2%B7+Cisco;Building+MSP+Outreach+Automator;Open+to+opportunities!" alt="Typing SVG" />
+</a>
 
 <p>
   <i>"I'd tell you a UDP joke, but you might not get it."</i>
