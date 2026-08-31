@@ -36,30 +36,6 @@ Networking student and developer based in Johannesburg, South Africa. Building P
   <img src="https://img.shields.io/badge/Hyprland-552A80?style=for-the-badge&logo=hyprland&logoColor=white"/>
 </p>
 
-### Projects
-
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Personal Portfolio Page</b></td>
-      <td>Interactive single-page application built around a custom network-gateway aesthetic.</td>
-      <td><a href="https://ctrl-yam.github.io">Visit</a></td>
-    </tr>
-    <tr>
-      <td><b>MSP Outreach Automator</b></td>
-      <td>Python desktop automation script engineered to streamline personalized outreach workflows.</td>
-      <td><a href="https://github.com/Ctrl-Yam/msp-outreach-automator">Code</a></td>
-    </tr>
-  </tbody>
-</table>
-
 ### Open Source Projects
 
 <table>
