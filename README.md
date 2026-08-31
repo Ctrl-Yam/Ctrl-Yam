@@ -10,15 +10,20 @@ First-year IT Network Management student and developer based in Johannesburg, So
 ### 🛠 Languages, Systems & Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,js,java,html,css,bash,linux,windows,docker,git,github,vscode&perline=12" />
+  <img src="https://skillicons.dev/icons?i=py,java,html,js,bash,linux,windows,docker,git,github,vscode&perline=11" />
 </a>
+
+### 🌐 Networking & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-167DAA?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Packet_Tracer-005073?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TCP/IP_%26_VLANs-000000?style=for-the-badge"/>
+</p>
 
 ### 🐍 Contribution Snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ctrl-Yam/Ctrl-Yam/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ctrl-Yam/Ctrl-Yam/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ctrl-Yam/Ctrl-Yam/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Ctrl-Yam/Ctrl-Yam/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
 </div>
