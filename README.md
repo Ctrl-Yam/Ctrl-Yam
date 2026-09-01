@@ -5,7 +5,7 @@
 </a>
 
 <p>
-  <i>"I'd tell you a UDP joke, but you might not get it."</i>
+  <i>"Networking student and developer based in Johannesburg, South Africa. Building Python automation tools, enterprise network solutions, and custom system environments."</i>
 </p>
 
 <p>
